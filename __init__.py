@@ -13,11 +13,11 @@ from iexfinance.stocks import Stock as IEXStock
 
 
 reddit = praw.Reddit(
-    client_id="b3_uKy3UliD2qQ",
-    client_secret="Bq6Zn507QsJQ86cBdVVxGUsm2zZCMQ",
+    client_id="",
+    client_secret="",
     user_agent="my user agent",
-    username="lightningmcqueen_69",
-    password="Mynameisdon5",
+    username="",
+    password="",
 )
 
 # to add the path for Python to search for files to use my edited version of vaderSentiment
